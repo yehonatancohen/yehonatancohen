@@ -1,27 +1,21 @@
 
 <h1 align="center"><b>Hi , I'm Yehonatan Cohen </b></h1>
 
-<br>
-
 	
 ## **About me**
 
-<br>
-
-- Currently finishing a degree in computer science
-- A .NET Developer
-- Solving CTF's at spare time
-- Learning Web Hacking by Self
-
-<br><br>
+- Computer Science degree graduate
+- Doing small projects in my free time
+- Looking to contribute projects
 
 
 ## <b> Skills</b>
-<br>
 
 <p align="center">
 
 - **Languages**:
+
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=yehonatancohen&layout=compact&theme=transparent)
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -31,21 +25,9 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   
-<br>
-
-- **More**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) 
-
 </p>
-<br>
-<br>
 
 ## **Contact**
-<br>
 <div align='left'>
 <ul>
 <li>
@@ -61,6 +43,9 @@
 <img src="https://img.shields.io/badge/gmail:%20yoncohenyon@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
 </ul>
+
+## **Profile views**
+![Profile views](https://komarev.com/ghpvc/?username=yehonatancohen&color=blue)
+	
 </div>
